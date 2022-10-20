@@ -123,11 +123,11 @@ test=np.array([[1],[1]])
 predict(w1,w2,test)
 ```
  ## OUTPUT :
-``` 
+ 
 <img width="104" alt="NN2" src="https://user-images.githubusercontent.com/114279259/196986409-ed33d510-2647-46d3-b2a5-ea68aa6578ee.png">
+
 <img width="293" alt="NN" src="https://user-images.githubusercontent.com/114279259/196986576-904b15cc-8c53-4828-a8ac-1e8edf11ab82.png"> 
 
-```
 
 
 ## RESULT:
